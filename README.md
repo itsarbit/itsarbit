@@ -1,30 +1,14 @@
-### Hi, I'm Arbit
+# Hi there, I'm Arbit
 
-I build infrastructure for AI agents - simulation, evaluation, and orchestration systems.
+I'm a founder and engineer building AI agent infrastructure at **[Arklex](https://github.com/arklexai)**, focused on simulation, evaluation, and orchestration systems for production AI agents.
 
-Founder of [Arklex](https://github.com/arklexai). Previously built distributed systems and ML infrastructure at scale.
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsarbit/)
-[![X](https://img.shields.io/badge/-@itsarbit-000?style=flat-square&logo=x&logoColor=white)](https://x.com/itsarbit)
-[![Substack](https://img.shields.io/badge/-Substack-FF6719?style=flat-square&logo=substack&logoColor=white)](https://itsarbit.substack.com)
-[![Website](https://img.shields.io/badge/-itsarbit.com-4A4A4A?style=flat-square&logo=safari&logoColor=white)](http://itsarbit.com)
+Previously built distributed systems and ML infrastructure at scale. Research background in conversational AI, dialogue systems, and NLP.
 
 ---
 
-#### What I'm building
+## Tech Stack
 
-- **[ArkSim](https://github.com/arklexai/arksim)** - Open-source agent simulation and evaluation framework. Simulate realistic multi-turn conversations, evaluate with built-in and custom metrics, generate visual reports. Works with any Chat Completions or A2A endpoint.
-
-- **[Agent-First Organization](https://github.com/arklexai/Agent-First-Organization)** - Production framework for building AI agent systems with an agent-first architecture. 690+ stars.
-
-#### Other projects
-
-- **[tokenwise](https://github.com/itsarbit/tokenwise)** - LLM task planner that decomposes tasks, routes to optimal models, and enforces budgets
-- **[fluent-stackdriver](https://github.com/itsarbit/fluent-stackdriver)** - Fluentd output plugin for Google Cloud Logging
-
----
-
-#### Tech stack
+Here are some of the tools and technologies I work with:
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
@@ -39,12 +23,47 @@ Founder of [Arklex](https://github.com/arklexai). Previously built distributed s
 
 ---
 
-<details>
-<summary>Background</summary>
+## Selected Projects
 
+### **[ArkSim - Agent Simulation & Evaluation Framework](https://github.com/arklexai/arksim)**
+
+Open-source framework for testing AI agents before they go live. Simulates realistic multi-turn conversations between LLM-powered users and your agent, then evaluates performance across built-in and custom metrics. Works with any agent that exposes a Chat Completions API or A2A protocol endpoint. Includes 7 built-in evaluation metrics, custom metric support, parallel execution, and interactive HTML reports.
+
+**Tech:** Python, FastAPI, OpenAI, Anthropic, Pydantic, Jinja2
+[GitHub Repo](https://github.com/arklexai/arksim)
+
+### **[Agent-First Organization - Production Agent Framework](https://github.com/arklexai/Agent-First-Organization)**
+
+Framework for building production AI systems with an agent-first architecture. Provides the orchestration layer for deploying and managing AI agents at scale, with built-in support for multi-agent coordination, tool calling, and conversation management. 690+ stars on GitHub.
+
+**Tech:** Python, LangGraph, FastAPI, OpenAI
+[GitHub Repo](https://github.com/arklexai/Agent-First-Organization)
+
+### **[Tokenwise - Intelligent LLM Task Planner](https://github.com/itsarbit/tokenwise)**
+
+LLM task planner that decomposes complex tasks into subtasks, routes each to the optimal model based on capability and cost, and enforces token budgets. Helps teams manage LLM spend while maximizing output quality.
+
+**Tech:** Python, OpenAI
+[GitHub Repo](https://github.com/itsarbit/tokenwise)
+
+---
+
+## Background
+
+- Founded Arklex, building AI agent testing and orchestration infrastructure
 - Built and scaled distributed systems, ML pipelines, and cloud infrastructure across multiple startups
-- Research background in conversational AI, dialogue systems, and NLP
-- Contributed to open-source projects in ML infrastructure and observability
-- Arctic Code Vault Contributor
+- Research in conversational AI, dialogue evaluation, and multi-turn dialogue systems
+- Open-source contributor in ML infrastructure and observability (Arctic Code Vault Contributor)
 
-</details>
+---
+
+## Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsarbit/)
+[![X](https://img.shields.io/badge/-@itsarbit-000?style=flat-square&logo=x&logoColor=white)](https://x.com/itsarbit)
+[![Substack](https://img.shields.io/badge/-Substack-FF6719?style=flat-square&logo=substack&logoColor=white)](https://itsarbit.substack.com)
+[![Website](https://img.shields.io/badge/-itsarbit.com-4A4A4A?style=flat-square&logo=safari&logoColor=white)](http://itsarbit.com)
+
+---
+
+*Check out my pinned projects below.*
